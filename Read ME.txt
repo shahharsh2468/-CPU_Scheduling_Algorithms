@@ -1,0 +1,1 @@
+First of all import os_project.sql database file in phpmyadmin after that all program will work.
